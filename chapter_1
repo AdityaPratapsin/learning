@@ -1,0 +1,5 @@
+this is the starting point for git "git folder" is the working ditrectory .(git init)
+git init for intial
+git status for file status
+git add for adding the files to git repo
+git commit -m "message for commit"
